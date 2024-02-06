@@ -1,1 +1,2 @@
-
+TCGA-STAD RNA-seq data can find from this links:
+https://gdc-hub.s3.us-east-1.amazonaws.com/download/TCGA-STAD.htseq_fpkm.tsv.gz
